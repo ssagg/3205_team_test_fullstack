@@ -6,19 +6,13 @@
 /.pnp
 .pnp.js
 
-# testing
-/coverage
+# Logs
+3205_test_backend/logs
+3205_test_backend/*.log
+
+
 
 # production
 /build
 
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
